@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ajaypatelap02
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ajay Bharat Patel
+- 👀 I’m interested in codding
+- 🌱 I’m currently learning CPP
+- 💞️ I’m looking to collaborate on OOP
+- 📫 How to reach me DM me
 
 <!---
 ajaypatelap02/ajaypatelap02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
